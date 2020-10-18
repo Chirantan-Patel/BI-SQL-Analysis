@@ -1,0 +1,3 @@
+employeeNumber,jobTitle,lastName,firstName,officeCode,country,city,reportsTo
+1002,President,Murphy,Diane,1,USA,"San Francisco",NULL
+1076,"VP Marketing",Firrelli,Jeff,1,USA,"San Francisco",1002
