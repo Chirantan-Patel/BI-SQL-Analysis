@@ -1,0 +1,23 @@
+city,country,customerNumber,paymentDate,customerName,amount
+"San Rafael",USA,124,2005-03-05,"Mini Gifts Distributors Ltd.",101244.59
+"San Rafael",USA,124,2004-08-28,"Mini Gifts Distributors Ltd.",85410.87
+"San Rafael",USA,124,2003-04-11,"Mini Gifts Distributors Ltd.",11044.30
+"San Rafael",USA,124,2005-04-16,"Mini Gifts Distributors Ltd.",83598.04
+"San Rafael",USA,124,2004-12-27,"Mini Gifts Distributors Ltd.",47142.70
+"San Rafael",USA,124,2004-11-02,"Mini Gifts Distributors Ltd.",55639.66
+"San Rafael",USA,124,2003-08-15,"Mini Gifts Distributors Ltd.",111654.40
+"San Rafael",USA,124,2004-03-26,"Mini Gifts Distributors Ltd.",43369.30
+"San Rafael",USA,124,2003-11-25,"Mini Gifts Distributors Ltd.",45084.38
+Madrid,Spain,141,2003-07-19,"Euro+ Shopping Channel",36251.03
+Madrid,Spain,141,2004-11-01,"Euro+ Shopping Channel",36140.38
+Madrid,Spain,141,2005-05-19,"Euro+ Shopping Channel",46895.48
+Madrid,Spain,141,2004-01-30,"Euro+ Shopping Channel",59830.55
+Madrid,Spain,141,2004-12-31,"Euro+ Shopping Channel",116208.40
+Madrid,Spain,141,2005-03-25,"Euro+ Shopping Channel",65071.26
+Madrid,Spain,141,2005-03-18,"Euro+ Shopping Channel",120166.58
+Madrid,Spain,141,2003-10-26,"Euro+ Shopping Channel",49539.37
+Madrid,Spain,141,2003-02-25,"Euro+ Shopping Channel",40206.20
+Madrid,Spain,141,2003-12-09,"Euro+ Shopping Channel",63843.55
+Madrid,Spain,141,2004-07-09,"Euro+ Shopping Channel",35420.74
+Madrid,Spain,141,2004-08-16,"Euro+ Shopping Channel",20009.53
+Madrid,Spain,141,2004-05-17,"Euro+ Shopping Channel",26155.91
