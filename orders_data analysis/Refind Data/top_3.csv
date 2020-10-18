@@ -1,0 +1,4 @@
+productCode,productDescription,"orderdetails.priceEach - products.buyPrice","SUM(quantityInStock) - SUM(quantityOrdered)"
+S24_2000,"Detailed scale replica with working suspension and constructed from over 70 parts",35.80,-595
+S12_1099,"Hood, doors and trunk all open to reveal highly detailed interior features. Steering wheel actually turns the front wheels. Color dark green.",70.04,903
+S32_4289,"This model features grille-mounted chrome horn, lift-up louvered hood, fold-down rumble seat, working steering system",32.33,2836
