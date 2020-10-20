@@ -1,4 +1,4 @@
-# Business-intelligence-BI-SQL-Analysis
+# Business-intelligence-SQL-Analysis
 
 
 [tables relationship diagram] [Table_Relationship.pdf](https://github.com/Chirantan-Patel/Country-The-King-of-the-Olympic-Games/files/5396957/Table_Relationship.pdf)
