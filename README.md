@@ -19,7 +19,7 @@ This dashboard includes information about the storage of particular important it
 ![Image 1](https://user-images.githubusercontent.com/40618186/96356825-c7197900-10c1-11eb-9e45-e9484e7f8b35.png)
 
 
-The next one is dedicated to the customers. Here we have a geographical visualization of our most crucial clients. Their importance is noted in the size of the circles, with which their locations are marked. The bigger it is the more money we recieve from company standing behind it. Also, we have a horizontal bar chart in which we can follow the amount of the sums more closely. This comes to be veri important, as we see very big difference in the amount among the top two clients and everyone else. For that reason, we dedicated a special graph for them, which is a line graph. And in it we could trace the pattern of their spendings to our company over the time.
+The next one is dedicated to the customers. Here we have a geographical visualization of our most crucial clients. Their importance is noted in the size of the circles, with which their locations are marked. The bigger it is the more money we recieve from company standing behind it. Also, we have a horizontal bar chart in which we can follow the amount of the sums more closely. This comes very important, as we see very big difference in the amount among the top two clients and everyone else. For that reason, we dedicated a special graph for them, which is a line graph. And in it we could trace the pattern of their spendings to our company over the time.
 
 ![Image 2](https://user-images.githubusercontent.com/40618186/96356827-c7b20f80-10c1-11eb-9693-75bee432ba47.png)
 
